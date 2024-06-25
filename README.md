@@ -10,9 +10,6 @@ Welcome to the Unity Multiplayer Game Project! This repository contains the sour
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Game](#running-the-game)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## About the Project
